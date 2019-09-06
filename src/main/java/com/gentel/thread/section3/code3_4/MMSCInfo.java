@@ -1,7 +1,7 @@
 package com.gentel.thread.section3.code3_4;
 
 /**
- *  彩信中心信息
+ * 彩信中心信息
  * 设计模式：不可变模式
  * 模式角色：ImmutableObject.ImmutableObject
  */
